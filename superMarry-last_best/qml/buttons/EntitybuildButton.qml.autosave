@@ -1,0 +1,10 @@
+import QtQuick 2.0
+import Felgo 3.0
+
+EntityBaseDraggable{
+    ImageButton{
+        width: 50
+        height: 50
+        source: ""
+    }
+}
